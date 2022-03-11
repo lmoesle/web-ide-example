@@ -1,0 +1,9 @@
+version: '3.7'
+
+services:
+  web-ide:
+    image: web-ide-example:latest
+    ports:
+      - 8080:8080
+    volumes:
+      - ~/source/lmoesle/web-ide-example/example-workspace:/workspace

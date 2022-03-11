@@ -1,0 +1,12 @@
+# IDE
+.vscode
+.idea
+.project
+
+# theia
+lib
+node_modules
+plugins
+src-gen
+gen-webpack.config.js
+webpack.config.js
