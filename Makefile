@@ -4,7 +4,11 @@ help:	## Show this help.
 
 .PHONY: build
 build: ## build eclipse theia docker container
-	docker build . -t web-ide-example
+	docker build . -t lmoesle/web-ide-example
+
+.PHONY: pull
+pull: ## pull eclipse theia image from dockerhub
+	docker pull lmoesle/web-ide-example
 
 .PHONY: start
 start: ## start eclipse theia ide
