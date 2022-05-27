@@ -35,8 +35,6 @@
   },
   "theiaPluginsExcludeIds": [
     "vscode.extension-editing",
-    "vscode.git",
-    "vscode.git-ui",
     "vscode.github",
     "vscode.markdown-language-features",
     "vscode.microsoft-authentication"
