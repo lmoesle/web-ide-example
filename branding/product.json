@@ -1,0 +1,22 @@
+{
+  "name": "Miragon Web-IDE",
+  "icon": "Miragon-Logo.png",
+  "logo": {
+    "dark": "Miragon.png",
+    "light": "Miragon.png"
+  },
+  "welcome": {
+    "title": "Welcome to Your Workspace",
+    "links": ["website", "documentation"]
+  },
+  "links": {
+    "website": {
+      "name": "Miragon",
+      "url": "https://www.flowsquad.io/"
+    },
+    "documentation": {
+      "name": "Miragon",
+      "url": "https://www.flowsquad.io/"
+    }
+  }
+}
